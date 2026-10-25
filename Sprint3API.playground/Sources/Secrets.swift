@@ -3,9 +3,9 @@
 
 public enum Secrets {
     public static let firebase = FirebaseConfig(
-        projectID: "YOUR_PROJECT_ID",                         // Project settings → General → Project ID
-        webAPIKey: "YOUR_WEB_API_KEY",                        // Project settings → General → Web API Key
-        storageBucket: "YOUR_PROJECT_ID.firebasestorage.app"  // Storage → bucket name, or "" to skip uploads
+        projectID: "axolotls-d0d4f",                          // Project settings → General → Project ID
+        webAPIKey: "YOUR_WEB_API_KEY",                        // Project settings → Your apps → Sprint3 playground → apiKey
+        storageBucket: ""                                     // "axolotls-d0d4f.firebasestorage.app" once Storage is on (Blaze plan)
     )
 
     public static let geminiAPIKey = "YOUR_GEMINI_API_KEY"    // aistudio.google.com → Get API key

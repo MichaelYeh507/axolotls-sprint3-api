@@ -36,6 +36,11 @@ the raw JSON before it's decoded.
 
 ## One-time setup (about 15 minutes)
 
+Our project, `axolotls-d0d4f`, already has steps 1 and 2 done: Firestore (nam5, US) with
+the demo rules published, and Anonymous sign-in on. Storage (step 3) is off. To run the
+demo, do step 4 (paste the two keys) and step 5. The steps are here for anyone setting up
+their own project.
+
 ### 1. Create the Firebase project
 1. Go to [console.firebase.google.com](https://console.firebase.google.com) → **Create a project**.
 2. Name it (for example `axolotls`). Google Analytics can stay off.
@@ -58,9 +63,9 @@ To skip Storage for now, set `storageBucket: ""` in step 4. Page 3 will then ski
 ### 4. Fill in `Sources/Secrets.swift`
 | Value | Where to find it |
 |---|---|
-| `projectID` | Firebase console → ⚙️ Project settings → General → **Project ID** |
-| `webAPIKey` | Same page → **Web API Key** (appears once Authentication is set up) |
-| `storageBucket` | Storage page header shows `gs://<something>.firebasestorage.app`; use the part after `gs://` |
+| `projectID` | Firebase console → ⚙️ Project settings → General → **Project ID** (already filled in: `axolotls-d0d4f`) |
+| `webAPIKey` | Same page → **Your apps** → the web app (ours is "Sprint3 playground") → SDK setup and configuration → `apiKey`. No app yet? Click **Add app** → Web (`</>`), register it without Hosting, and the key appears in its config. |
+| `storageBucket` | `""` skips uploads. With Storage on, the Storage page header shows `gs://<something>.firebasestorage.app`; use the part after `gs://` |
 | `geminiAPIKey` | [aistudio.google.com](https://aistudio.google.com) → **Get API key** → Create API key. No billing needed. |
 
 ### 5. Run it
