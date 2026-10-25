@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='1 Seed Firestore'/>
+        <page name='2 Read Firestore'/>
+        <page name='3 Gemini Quest Check'/>
+        <page name='4 Gemini Quest Ideas'/>
+    </pages>
+</playground>

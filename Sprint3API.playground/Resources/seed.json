@@ -1,0 +1,4889 @@
+{
+  "referenceNow": "2026-10-20T16:00:00Z",
+  "collections": [
+    {
+      "path": "users",
+      "documents": {
+        "u_anabella": {
+          "display_name": "Anabella",
+          "username": "anabellaaaaaa",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-08-26T13:00:00Z"
+        },
+        "u_steph": {
+          "display_name": "Steph",
+          "username": "steph",
+          "profile_photo": "users/u_steph/profile.jpg",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-08-21T20:00:00Z"
+        },
+        "u_lily": {
+          "display_name": "Lily",
+          "username": "lilyyy",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-08-28T19:00:00Z"
+        },
+        "u_michael": {
+          "display_name": "Michael",
+          "username": "michael",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-08-25T22:00:00Z"
+        },
+        "u_streak": {
+          "display_name": "Streak",
+          "username": "streak",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": false
+          },
+          "created_at": "2025-09-15T12:00:00Z"
+        },
+        "u_amanda": {
+          "display_name": "Amanda",
+          "username": "amanda",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-05T16:00:00Z"
+        },
+        "u_brittney": {
+          "display_name": "Brittney",
+          "username": "brittney",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-10T13:00:00Z"
+        },
+        "u_diego": {
+          "display_name": "Diego",
+          "username": "diego",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-15T11:00:00Z"
+        },
+        "u_fred": {
+          "display_name": "Fred",
+          "username": "fred",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-20T16:00:00Z"
+        },
+        "u_greg": {
+          "display_name": "Greg",
+          "username": "greg",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-25T20:00:00Z"
+        },
+        "u_haley": {
+          "display_name": "Haley",
+          "username": "haley",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-27T15:00:00Z"
+        },
+        "u_paaramita": {
+          "display_name": "Paaramita",
+          "username": "paaramita",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-30T15:00:00Z"
+        },
+        "u_rachel": {
+          "display_name": "Rachel",
+          "username": "rachel",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-10-05T17:00:00Z"
+        },
+        "u_sammy": {
+          "display_name": "Sammy",
+          "username": "sammy",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-10-07T20:00:00Z"
+        },
+        "u_ted": {
+          "display_name": "Ted",
+          "username": "ted",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-10-09T20:00:00Z"
+        },
+        "u_umed": {
+          "display_name": "Umed",
+          "username": "umed",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-10-11T11:00:00Z"
+        },
+        "u_jade": {
+          "display_name": "Jade",
+          "username": "jade",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-10-13T11:00:00Z"
+        },
+        "u_riley": {
+          "display_name": "Riley",
+          "username": "riley",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-12-24T19:00:00Z"
+        },
+        "u_sophia": {
+          "display_name": "Sophia",
+          "username": "sophia",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-02-12T10:00:00Z"
+        },
+        "u_tim": {
+          "display_name": "Tim",
+          "username": "tim",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-04-03T21:00:00Z"
+        },
+        "u_aaron": {
+          "display_name": "Aaron",
+          "username": "aaron",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-05-23T18:00:00Z"
+        },
+        "u_jen": {
+          "display_name": "Jen",
+          "username": "jen",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-25T22:00:00Z"
+        },
+        "u_kyle": {
+          "display_name": "Kyle",
+          "username": "kyle",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-09-29T18:00:00Z"
+        },
+        "u_sharon": {
+          "display_name": "Sharon",
+          "username": "sharon",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2025-10-05T12:00:00Z"
+        },
+        "u_jimmy": {
+          "display_name": "Jimmy S",
+          "username": "jimmy.s",
+          "phone_hash": "b6c64d624845aeccb7f730186a896ae00324f2edf2686b526f5f6c66e167b86e",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-04-03T13:00:00Z"
+        },
+        "u_helen": {
+          "display_name": "Helen",
+          "username": "helen",
+          "phone_hash": "5cee0f978796f13cc1ac79a12bb8d8f322c9a71b473579cfe950e533784a3f4d",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-05-23T19:00:00Z"
+        },
+        "u_abigail": {
+          "display_name": "Abigail L",
+          "username": "abigail.l",
+          "phone_hash": "20480cc821c01d631553f0c940bd954ce423c8e94b4f9e21d707dfc36e6c9e33",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-07-12T17:00:00Z"
+        },
+        "u_kate": {
+          "display_name": "Kate",
+          "username": "kate",
+          "phone_hash": "1d899fced18bdcd618cc8aa87aef9861d47b094d9c8f45a15e9c40f0b87784d4",
+          "notification_preferences": {
+            "quest_notifications_enabled": true,
+            "group_invite_notifications_enabled": true,
+            "photos_available_notifications_enabled": true
+          },
+          "created_at": "2026-09-10T10:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_aaron/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_aaron",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2026-06-01T00:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_aaron",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2026-06-19T03:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_abigail/friends",
+      "documents": {
+        "u_michael": {
+          "user_id": "u_abigail",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2026-08-04T18:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_amanda/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_amanda",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-09-09T23:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_anabella/friends",
+      "documents": {
+        "u_aaron": {
+          "user_id": "u_anabella",
+          "friend_id": "u_aaron",
+          "friendship_status": "friends",
+          "created_at": "2026-06-01T00:00:00Z"
+        },
+        "u_amanda": {
+          "user_id": "u_anabella",
+          "friend_id": "u_amanda",
+          "friendship_status": "friends",
+          "created_at": "2025-09-09T23:00:00Z"
+        },
+        "u_brittney": {
+          "user_id": "u_anabella",
+          "friend_id": "u_brittney",
+          "friendship_status": "friends",
+          "created_at": "2025-10-11T00:00:00Z"
+        },
+        "u_diego": {
+          "user_id": "u_anabella",
+          "friend_id": "u_diego",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T11:00:00Z"
+        },
+        "u_fred": {
+          "user_id": "u_anabella",
+          "friend_id": "u_fred",
+          "friendship_status": "friends",
+          "created_at": "2025-09-21T23:00:00Z"
+        },
+        "u_greg": {
+          "user_id": "u_anabella",
+          "friend_id": "u_greg",
+          "friendship_status": "friends",
+          "created_at": "2025-10-17T07:00:00Z"
+        },
+        "u_haley": {
+          "user_id": "u_anabella",
+          "friend_id": "u_haley",
+          "friendship_status": "friends",
+          "created_at": "2025-10-22T03:00:00Z"
+        },
+        "u_jade": {
+          "user_id": "u_anabella",
+          "friend_id": "u_jade",
+          "friendship_status": "friends",
+          "created_at": "2025-10-17T13:00:00Z"
+        },
+        "u_jimmy": {
+          "user_id": "u_anabella",
+          "friend_id": "u_jimmy",
+          "friendship_status": "removed",
+          "created_at": "2026-04-16T20:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_anabella",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2025-09-26T05:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_anabella",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2025-08-29T22:00:00Z"
+        },
+        "u_paaramita": {
+          "user_id": "u_anabella",
+          "friend_id": "u_paaramita",
+          "friendship_status": "friends",
+          "created_at": "2025-10-19T02:00:00Z"
+        },
+        "u_rachel": {
+          "user_id": "u_anabella",
+          "friend_id": "u_rachel",
+          "friendship_status": "friends",
+          "created_at": "2025-11-02T03:00:00Z"
+        },
+        "u_riley": {
+          "user_id": "u_anabella",
+          "friend_id": "u_riley",
+          "friendship_status": "friends",
+          "created_at": "2026-01-04T21:00:00Z"
+        },
+        "u_sammy": {
+          "user_id": "u_anabella",
+          "friend_id": "u_sammy",
+          "friendship_status": "friends",
+          "created_at": "2025-10-29T02:00:00Z"
+        },
+        "u_sophia": {
+          "user_id": "u_anabella",
+          "friend_id": "u_sophia",
+          "friendship_status": "friends",
+          "created_at": "2026-02-13T11:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_anabella",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-09-13T19:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_anabella",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T16:00:00Z"
+        },
+        "u_ted": {
+          "user_id": "u_anabella",
+          "friend_id": "u_ted",
+          "friendship_status": "friends",
+          "created_at": "2025-10-23T21:00:00Z"
+        },
+        "u_tim": {
+          "user_id": "u_anabella",
+          "friend_id": "u_tim",
+          "friendship_status": "friends",
+          "created_at": "2026-04-07T04:00:00Z"
+        },
+        "u_umed": {
+          "user_id": "u_anabella",
+          "friend_id": "u_umed",
+          "friendship_status": "friends",
+          "created_at": "2025-10-14T12:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_brittney/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_brittney",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-11T00:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_brittney",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2025-09-21T17:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_diego/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_diego",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T11:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_diego",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T13:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_fred/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_fred",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-09-21T23:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_fred",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2025-10-19T18:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_greg/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_greg",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-17T07:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_greg",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2025-10-07T23:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_haley/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_haley",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-22T03:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_jade/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_jade",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-17T13:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_jen/friends",
+      "documents": {
+        "u_steph": {
+          "user_id": "u_jen",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-10-21T10:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_jimmy/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_jimmy",
+          "friend_id": "u_anabella",
+          "friendship_status": "removed",
+          "created_at": "2026-04-16T20:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_kyle/friends",
+      "documents": {
+        "u_steph": {
+          "user_id": "u_kyle",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-10-29T22:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_lily/friends",
+      "documents": {
+        "u_aaron": {
+          "user_id": "u_lily",
+          "friend_id": "u_aaron",
+          "friendship_status": "friends",
+          "created_at": "2026-06-19T03:00:00Z"
+        },
+        "u_anabella": {
+          "user_id": "u_lily",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-09-26T05:00:00Z"
+        },
+        "u_greg": {
+          "user_id": "u_lily",
+          "friend_id": "u_greg",
+          "friendship_status": "friends",
+          "created_at": "2025-10-07T23:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_lily",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2025-09-05T01:00:00Z"
+        },
+        "u_sammy": {
+          "user_id": "u_lily",
+          "friend_id": "u_sammy",
+          "friendship_status": "friends",
+          "created_at": "2025-11-05T02:00:00Z"
+        },
+        "u_sharon": {
+          "user_id": "u_lily",
+          "friend_id": "u_sharon",
+          "friendship_status": "friends",
+          "created_at": "2026-04-03T20:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_lily",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-09-13T23:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_lily",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2025-10-15T18:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_michael/friends",
+      "documents": {
+        "u_abigail": {
+          "user_id": "u_michael",
+          "friend_id": "u_abigail",
+          "friendship_status": "friends",
+          "created_at": "2026-08-04T18:00:00Z"
+        },
+        "u_anabella": {
+          "user_id": "u_michael",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-08-29T22:00:00Z"
+        },
+        "u_brittney": {
+          "user_id": "u_michael",
+          "friend_id": "u_brittney",
+          "friendship_status": "friends",
+          "created_at": "2025-09-21T17:00:00Z"
+        },
+        "u_fred": {
+          "user_id": "u_michael",
+          "friend_id": "u_fred",
+          "friendship_status": "friends",
+          "created_at": "2025-10-19T18:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_michael",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2025-09-05T01:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_michael",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-09-04T09:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_michael",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T19:00:00Z"
+        },
+        "u_tim": {
+          "user_id": "u_michael",
+          "friend_id": "u_tim",
+          "friendship_status": "friends",
+          "created_at": "2026-04-10T09:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_paaramita/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_paaramita",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-19T02:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_paaramita",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-10-24T02:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_rachel/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_rachel",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-11-02T03:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_rachel",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-10-10T18:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_riley/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_riley",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2026-01-04T21:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_sammy/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_sammy",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-29T02:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_sammy",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2025-11-05T02:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_sharon/friends",
+      "documents": {
+        "u_lily": {
+          "user_id": "u_sharon",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2026-04-03T20:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_sophia/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_sophia",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2026-02-13T11:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_sophia",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2026-03-08T17:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_steph/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_steph",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-09-13T19:00:00Z"
+        },
+        "u_jen": {
+          "user_id": "u_steph",
+          "friend_id": "u_jen",
+          "friendship_status": "friends",
+          "created_at": "2025-10-21T10:00:00Z"
+        },
+        "u_kyle": {
+          "user_id": "u_steph",
+          "friend_id": "u_kyle",
+          "friendship_status": "friends",
+          "created_at": "2025-10-29T22:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_steph",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2025-09-13T23:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_steph",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2025-09-04T09:00:00Z"
+        },
+        "u_paaramita": {
+          "user_id": "u_steph",
+          "friend_id": "u_paaramita",
+          "friendship_status": "friends",
+          "created_at": "2025-10-24T02:00:00Z"
+        },
+        "u_rachel": {
+          "user_id": "u_steph",
+          "friend_id": "u_rachel",
+          "friendship_status": "friends",
+          "created_at": "2025-10-10T18:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_steph",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2025-09-23T23:00:00Z"
+        },
+        "u_ted": {
+          "user_id": "u_steph",
+          "friend_id": "u_ted",
+          "friendship_status": "friends",
+          "created_at": "2025-10-12T08:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_streak/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_streak",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T16:00:00Z"
+        },
+        "u_diego": {
+          "user_id": "u_streak",
+          "friend_id": "u_diego",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T13:00:00Z"
+        },
+        "u_lily": {
+          "user_id": "u_streak",
+          "friend_id": "u_lily",
+          "friendship_status": "friends",
+          "created_at": "2025-10-15T18:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_streak",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2025-10-03T19:00:00Z"
+        },
+        "u_sophia": {
+          "user_id": "u_streak",
+          "friend_id": "u_sophia",
+          "friendship_status": "friends",
+          "created_at": "2026-03-08T17:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_streak",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-09-23T23:00:00Z"
+        },
+        "u_umed": {
+          "user_id": "u_streak",
+          "friend_id": "u_umed",
+          "friendship_status": "friends",
+          "created_at": "2025-11-02T12:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_ted/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_ted",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-23T21:00:00Z"
+        },
+        "u_steph": {
+          "user_id": "u_ted",
+          "friend_id": "u_steph",
+          "friendship_status": "friends",
+          "created_at": "2025-10-12T08:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_tim/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_tim",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2026-04-07T04:00:00Z"
+        },
+        "u_michael": {
+          "user_id": "u_tim",
+          "friend_id": "u_michael",
+          "friendship_status": "friends",
+          "created_at": "2026-04-10T09:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "users/u_umed/friends",
+      "documents": {
+        "u_anabella": {
+          "user_id": "u_umed",
+          "friend_id": "u_anabella",
+          "friendship_status": "friends",
+          "created_at": "2025-10-14T12:00:00Z"
+        },
+        "u_streak": {
+          "user_id": "u_umed",
+          "friend_id": "u_streak",
+          "friendship_status": "friends",
+          "created_at": "2025-11-02T12:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "usernames",
+      "documents": {
+        "aaron": {
+          "user_id": "u_aaron"
+        },
+        "abigail.l": {
+          "user_id": "u_abigail"
+        },
+        "amanda": {
+          "user_id": "u_amanda"
+        },
+        "anabellaaaaaa": {
+          "user_id": "u_anabella"
+        },
+        "brittney": {
+          "user_id": "u_brittney"
+        },
+        "diego": {
+          "user_id": "u_diego"
+        },
+        "fred": {
+          "user_id": "u_fred"
+        },
+        "greg": {
+          "user_id": "u_greg"
+        },
+        "haley": {
+          "user_id": "u_haley"
+        },
+        "helen": {
+          "user_id": "u_helen"
+        },
+        "jade": {
+          "user_id": "u_jade"
+        },
+        "jen": {
+          "user_id": "u_jen"
+        },
+        "jimmy.s": {
+          "user_id": "u_jimmy"
+        },
+        "kate": {
+          "user_id": "u_kate"
+        },
+        "kyle": {
+          "user_id": "u_kyle"
+        },
+        "lilyyy": {
+          "user_id": "u_lily"
+        },
+        "michael": {
+          "user_id": "u_michael"
+        },
+        "paaramita": {
+          "user_id": "u_paaramita"
+        },
+        "rachel": {
+          "user_id": "u_rachel"
+        },
+        "riley": {
+          "user_id": "u_riley"
+        },
+        "sammy": {
+          "user_id": "u_sammy"
+        },
+        "sharon": {
+          "user_id": "u_sharon"
+        },
+        "sophia": {
+          "user_id": "u_sophia"
+        },
+        "steph": {
+          "user_id": "u_steph"
+        },
+        "streak": {
+          "user_id": "u_streak"
+        },
+        "ted": {
+          "user_id": "u_ted"
+        },
+        "tim": {
+          "user_id": "u_tim"
+        },
+        "umed": {
+          "user_id": "u_umed"
+        }
+      }
+    },
+    {
+      "path": "friend_requests",
+      "documents": {
+        "u_jen_u_anabella": {
+          "sender_id": "u_jen",
+          "recipient_id": "u_anabella",
+          "request_status": "pending",
+          "created_at": "2026-10-20T13:00:00Z"
+        },
+        "u_anabella_u_kyle": {
+          "sender_id": "u_anabella",
+          "recipient_id": "u_kyle",
+          "request_status": "pending",
+          "created_at": "2026-10-19T14:00:00Z"
+        },
+        "u_sharon_u_lily": {
+          "sender_id": "u_sharon",
+          "recipient_id": "u_lily",
+          "request_status": "accepted",
+          "created_at": "2026-04-03T16:00:00Z",
+          "responded_at": "2026-04-03T20:00:00Z"
+        },
+        "u_kate_u_michael": {
+          "sender_id": "u_kate",
+          "recipient_id": "u_michael",
+          "request_status": "declined",
+          "created_at": "2026-09-30T16:00:00Z",
+          "responded_at": "2026-10-01T16:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups",
+      "documents": {
+        "g_axolotls": {
+          "group_name": "The Axolotls",
+          "description": "The best group of people ever.",
+          "mode": "travel",
+          "group_icon": "groups/g_axolotls/icon.png",
+          "creator_id": "u_steph",
+          "member_ids": [
+            "u_steph",
+            "u_lily",
+            "u_anabella",
+            "u_michael",
+            "u_streak"
+          ],
+          "invite_code": "123456",
+          "created_at": "2026-10-20T08:00:00Z",
+          "event_end_at": "2026-10-21T08:00:00Z",
+          "photo_count": 30
+        },
+        "g_party_animals": {
+          "group_name": "Party Animals",
+          "description": "Steph's birthday party! Dress code: animal print.",
+          "mode": "party",
+          "creator_id": "u_steph",
+          "member_ids": [
+            "u_steph",
+            "u_jen",
+            "u_kyle"
+          ],
+          "invite_code": "482913",
+          "created_at": "2026-10-20T14:00:00Z",
+          "event_end_at": "2026-10-21T02:00:00Z",
+          "photo_count": 0
+        },
+        "g_italy": {
+          "group_name": "Italy Pals!!",
+          "description": "Rome → Florence → Venice. Six days, eleven people, one group chat.",
+          "mode": "travel",
+          "creator_id": "u_anabella",
+          "member_ids": [
+            "u_anabella",
+            "u_steph",
+            "u_lily",
+            "u_michael",
+            "u_streak",
+            "u_amanda",
+            "u_diego",
+            "u_greg",
+            "u_haley",
+            "u_jen",
+            "u_sharon"
+          ],
+          "invite_code": "305117",
+          "created_at": "2026-06-13T02:00:00Z",
+          "event_end_at": "2026-06-21T02:00:00Z",
+          "cover_photo": "groups/g_italy/photos/p_001.jpg",
+          "photo_count": 126
+        },
+        "g_friendsgiving": {
+          "group_name": "Friendsgiving",
+          "description": "Potluck at Lily's. Bring a dish and a container for leftovers.",
+          "mode": "party",
+          "creator_id": "u_lily",
+          "member_ids": [
+            "u_anabella",
+            "u_steph",
+            "u_lily",
+            "u_michael",
+            "u_brittney",
+            "u_fred",
+            "u_paaramita",
+            "u_rachel",
+            "u_kyle"
+          ],
+          "invite_code": "771204",
+          "created_at": "2025-11-24T20:00:00Z",
+          "event_end_at": "2025-11-28T05:00:00Z",
+          "cover_photo": "groups/g_friendsgiving/photos/p_001.jpg",
+          "photo_count": 69
+        },
+        "g_beach": {
+          "group_name": "Beach Day",
+          "description": "Presque Isle trip before it gets cold.",
+          "mode": "travel",
+          "creator_id": "u_anabella",
+          "member_ids": [
+            "u_anabella",
+            "u_steph",
+            "u_lily",
+            "u_sammy",
+            "u_ted",
+            "u_umed",
+            "u_haley"
+          ],
+          "invite_code": "640028",
+          "created_at": "2025-10-19T08:00:00Z",
+          "event_end_at": "2025-10-20T16:00:00Z",
+          "cover_photo": "groups/g_beach/photos/p_001.jpg",
+          "photo_count": 54
+        }
+      }
+    },
+    {
+      "path": "groups/g_axolotls/members",
+      "documents": {
+        "u_anabella": {
+          "group_id": "g_axolotls",
+          "user_id": "u_anabella",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T08:20:00Z"
+        },
+        "u_lily": {
+          "group_id": "g_axolotls",
+          "user_id": "u_lily",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T08:12:00Z"
+        },
+        "u_michael": {
+          "group_id": "g_axolotls",
+          "user_id": "u_michael",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T08:27:00Z"
+        },
+        "u_steph": {
+          "group_id": "g_axolotls",
+          "user_id": "u_steph",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T08:00:00Z"
+        },
+        "u_streak": {
+          "group_id": "g_axolotls",
+          "user_id": "u_streak",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T08:34:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_axolotls/quests",
+      "documents": {
+        "q_01": {
+          "prompt": "Take a photo with the tallest person in the room",
+          "checkable": true,
+          "order": 1,
+          "starts_at": "2026-10-20T09:00:00Z",
+          "ends_at": "2026-10-20T11:00:00Z",
+          "source": "bank"
+        },
+        "q_02": {
+          "prompt": "Take a photo of something blue",
+          "checkable": true,
+          "order": 2,
+          "starts_at": "2026-10-20T12:00:00Z",
+          "ends_at": "2026-10-20T14:00:00Z",
+          "source": "bank"
+        },
+        "q_03": {
+          "prompt": "Take a photo of a statue",
+          "checkable": true,
+          "order": 3,
+          "starts_at": "2026-10-20T15:00:00Z",
+          "ends_at": "2026-10-20T17:00:00Z",
+          "source": "bank"
+        },
+        "q_04": {
+          "prompt": "Take a photo of the best view you can find",
+          "checkable": true,
+          "order": 4,
+          "starts_at": "2026-10-20T19:00:00Z",
+          "ends_at": "2026-10-20T21:00:00Z",
+          "source": "bank"
+        },
+        "q_05": {
+          "prompt": "Take a group selfie with everyone in it",
+          "checkable": true,
+          "order": 5,
+          "starts_at": "2026-10-21T00:00:00Z",
+          "ends_at": "2026-10-21T02:00:00Z",
+          "source": "bank"
+        }
+      }
+    },
+    {
+      "path": "groups/g_axolotls/photos",
+      "documents": {
+        "p_001": {
+          "photo_asset": "groups/g_axolotls/photos/p_001.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-10-20T08:20:12Z"
+        },
+        "p_002": {
+          "photo_asset": "groups/g_axolotls/photos/p_002.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-10-20T08:31:41Z"
+        },
+        "p_003": {
+          "photo_asset": "groups/g_axolotls/photos/p_003.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-10-20T08:47:18Z"
+        },
+        "p_004": {
+          "photo_asset": "groups/g_axolotls/photos/p_004.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-10-20T09:07:55Z"
+        },
+        "p_005": {
+          "photo_asset": "groups/g_axolotls/photos/p_005.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-10-20T09:16:45Z"
+        },
+        "p_006": {
+          "photo_asset": "groups/g_axolotls/photos/p_006.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-10-20T09:32:34Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo with the tallest person in the room",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.88,
+            "reason": "A much taller person stands at the center of the group.",
+            "tags": [
+              "people",
+              "indoors",
+              "group photo"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T09:32:38Z"
+          }
+        },
+        "p_007": {
+          "photo_asset": "groups/g_axolotls/photos/p_007.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-10-20T09:47:35Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo with the tallest person in the room",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.81,
+            "reason": "One person clearly towers over everyone else in the frame.",
+            "tags": [
+              "people",
+              "party",
+              "indoors"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T09:47:39Z"
+          }
+        },
+        "p_008": {
+          "photo_asset": "groups/g_axolotls/photos/p_008.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-10-20T10:07:07Z"
+        },
+        "p_009": {
+          "photo_asset": "groups/g_axolotls/photos/p_009.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-10-20T10:24:35Z"
+        },
+        "p_010": {
+          "photo_asset": "groups/g_axolotls/photos/p_010.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-10-20T10:39:36Z"
+        },
+        "p_011": {
+          "photo_asset": "groups/g_axolotls/photos/p_011.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-10-20T10:51:28Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo with the tallest person in the room",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.72,
+            "reason": "Everyone in the photo looks about the same height.",
+            "tags": [
+              "people",
+              "selfie",
+              "indoors"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T10:51:32Z"
+          }
+        },
+        "p_012": {
+          "photo_asset": "groups/g_axolotls/photos/p_012.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-10-20T11:06:23Z"
+        },
+        "p_013": {
+          "photo_asset": "groups/g_axolotls/photos/p_013.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-10-20T11:23:58Z"
+        },
+        "p_014": {
+          "photo_asset": "groups/g_axolotls/photos/p_014.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-10-20T11:40:06Z"
+        },
+        "p_015": {
+          "photo_asset": "groups/g_axolotls/photos/p_015.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-10-20T11:53:43Z"
+        },
+        "p_016": {
+          "photo_asset": "groups/g_axolotls/photos/p_016.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-10-20T12:12:07Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.97,
+            "reason": "A bright blue mug fills most of the frame.",
+            "tags": [
+              "blue",
+              "mug",
+              "table"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T12:12:11Z"
+          }
+        },
+        "p_017": {
+          "photo_asset": "groups/g_axolotls/photos/p_017.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-10-20T12:23:03Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.93,
+            "reason": "The blue door is the clear subject of the photo.",
+            "tags": [
+              "blue",
+              "door",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T12:23:07Z"
+          }
+        },
+        "p_018": {
+          "photo_asset": "groups/g_axolotls/photos/p_018.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-10-20T12:40:49Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.84,
+            "reason": "The main subject is green, not blue.",
+            "tags": [
+              "plant",
+              "green",
+              "window"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T12:40:53Z"
+          }
+        },
+        "p_019": {
+          "photo_asset": "groups/g_axolotls/photos/p_019.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-10-20T12:58:20Z"
+        },
+        "p_020": {
+          "photo_asset": "groups/g_axolotls/photos/p_020.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-10-20T13:14:17Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.97,
+            "reason": "A bright blue mug fills most of the frame.",
+            "tags": [
+              "blue",
+              "mug",
+              "table"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T13:14:21Z"
+          }
+        },
+        "p_021": {
+          "photo_asset": "groups/g_axolotls/photos/p_021.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-10-20T13:30:21Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.93,
+            "reason": "The blue door is the clear subject of the photo.",
+            "tags": [
+              "blue",
+              "door",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T13:30:25Z"
+          }
+        },
+        "p_022": {
+          "photo_asset": "groups/g_axolotls/photos/p_022.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-10-20T13:40:42Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.84,
+            "reason": "The main subject is green, not blue.",
+            "tags": [
+              "plant",
+              "green",
+              "window"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T13:40:46Z"
+          }
+        },
+        "p_023": {
+          "photo_asset": "groups/g_axolotls/photos/p_023.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-10-20T14:01:18Z"
+        },
+        "p_024": {
+          "photo_asset": "groups/g_axolotls/photos/p_024.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-10-20T14:14:46Z"
+        },
+        "p_025": {
+          "photo_asset": "groups/g_axolotls/photos/p_025.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-10-20T14:30:01Z"
+        },
+        "p_026": {
+          "photo_asset": "groups/g_axolotls/photos/p_026.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-10-20T14:48:47Z"
+        },
+        "p_027": {
+          "photo_asset": "groups/g_axolotls/photos/p_027.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-10-20T15:03:06Z"
+        },
+        "p_028": {
+          "photo_asset": "groups/g_axolotls/photos/p_028.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-10-20T15:12:31Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo of a statue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.95,
+            "reason": "A bronze statue is the main subject of the photo.",
+            "tags": [
+              "statue",
+              "bronze",
+              "park"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T15:12:35Z"
+          }
+        },
+        "p_029": {
+          "photo_asset": "groups/g_axolotls/photos/p_029.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-10-20T15:30:01Z"
+        },
+        "p_030": {
+          "photo_asset": "groups/g_axolotls/photos/p_030.jpg",
+          "group_id": "g_axolotls",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-10-20T15:47:03Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo of a statue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.9,
+            "reason": "A marble statue is visible behind the group.",
+            "tags": [
+              "statue",
+              "marble",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-10-20T15:47:07Z"
+          }
+        }
+      }
+    },
+    {
+      "path": "groups/g_party_animals/members",
+      "documents": {
+        "u_jen": {
+          "group_id": "g_party_animals",
+          "user_id": "u_jen",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T14:13:00Z"
+        },
+        "u_kyle": {
+          "group_id": "g_party_animals",
+          "user_id": "u_kyle",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T14:20:00Z"
+        },
+        "u_steph": {
+          "group_id": "g_party_animals",
+          "user_id": "u_steph",
+          "membership_status": "active",
+          "joined_at": "2026-10-20T14:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_party_animals/quests",
+      "documents": {
+        "q_01": {
+          "prompt": "Take a photo of the snack table",
+          "checkable": true,
+          "order": 1,
+          "starts_at": "2026-10-20T15:00:00Z",
+          "ends_at": "2026-10-20T17:00:00Z",
+          "source": "gemini"
+        },
+        "q_02": {
+          "prompt": "Take the most dramatic photo you can",
+          "checkable": false,
+          "order": 2,
+          "starts_at": "2026-10-20T18:00:00Z",
+          "ends_at": "2026-10-20T20:00:00Z",
+          "source": "gemini"
+        },
+        "q_03": {
+          "prompt": "Take a photo of someone dancing",
+          "checkable": true,
+          "order": 3,
+          "starts_at": "2026-10-20T21:00:00Z",
+          "ends_at": "2026-10-20T23:00:00Z",
+          "source": "gemini"
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/members",
+      "documents": {
+        "u_amanda": {
+          "group_id": "g_italy",
+          "user_id": "u_amanda",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:41:00Z"
+        },
+        "u_anabella": {
+          "group_id": "g_italy",
+          "user_id": "u_anabella",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:00:00Z"
+        },
+        "u_diego": {
+          "group_id": "g_italy",
+          "user_id": "u_diego",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:48:00Z"
+        },
+        "u_greg": {
+          "group_id": "g_italy",
+          "user_id": "u_greg",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:55:00Z"
+        },
+        "u_haley": {
+          "group_id": "g_italy",
+          "user_id": "u_haley",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T03:02:00Z"
+        },
+        "u_jen": {
+          "group_id": "g_italy",
+          "user_id": "u_jen",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T03:09:00Z"
+        },
+        "u_lily": {
+          "group_id": "g_italy",
+          "user_id": "u_lily",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:20:00Z"
+        },
+        "u_michael": {
+          "group_id": "g_italy",
+          "user_id": "u_michael",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:27:00Z"
+        },
+        "u_sharon": {
+          "group_id": "g_italy",
+          "user_id": "u_sharon",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T03:16:00Z"
+        },
+        "u_steph": {
+          "group_id": "g_italy",
+          "user_id": "u_steph",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:13:00Z"
+        },
+        "u_streak": {
+          "group_id": "g_italy",
+          "user_id": "u_streak",
+          "membership_status": "active",
+          "joined_at": "2026-06-13T02:34:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/quests",
+      "documents": {
+        "q_01": {
+          "prompt": "Take a photo of a statue",
+          "checkable": true,
+          "order": 1,
+          "starts_at": "2026-06-16T04:00:00Z",
+          "ends_at": "2026-06-16T08:00:00Z",
+          "source": "gemini"
+        },
+        "q_02": {
+          "prompt": "Take a photo of the best gelato you can find",
+          "checkable": true,
+          "order": 2,
+          "starts_at": "2026-06-17T06:00:00Z",
+          "ends_at": "2026-06-17T10:00:00Z",
+          "source": "gemini"
+        },
+        "q_03": {
+          "prompt": "Take a photo of a dog (ask the owner first!)",
+          "checkable": true,
+          "order": 3,
+          "starts_at": "2026-06-18T03:00:00Z",
+          "ends_at": "2026-06-18T07:00:00Z",
+          "source": "gemini"
+        },
+        "q_04": {
+          "prompt": "Take a photo of someone mid-laugh",
+          "checkable": false,
+          "order": 4,
+          "starts_at": "2026-06-19T05:00:00Z",
+          "ends_at": "2026-06-19T09:00:00Z",
+          "source": "gemini"
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/photos",
+      "documents": {
+        "p_001": {
+          "photo_asset": "groups/g_italy/photos/p_001.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-15T08:29:29Z"
+        },
+        "p_002": {
+          "photo_asset": "groups/g_italy/photos/p_002.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-15T09:33:50Z"
+        },
+        "p_003": {
+          "photo_asset": "groups/g_italy/photos/p_003.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-15T10:38:23Z"
+        },
+        "p_004": {
+          "photo_asset": "groups/g_italy/photos/p_004.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-15T11:44:13Z"
+        },
+        "p_005": {
+          "photo_asset": "groups/g_italy/photos/p_005.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-15T12:52:37Z"
+        },
+        "p_006": {
+          "photo_asset": "groups/g_italy/photos/p_006.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-15T13:58:14Z"
+        },
+        "p_007": {
+          "photo_asset": "groups/g_italy/photos/p_007.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-15T15:04:13Z"
+        },
+        "p_008": {
+          "photo_asset": "groups/g_italy/photos/p_008.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-15T16:08:29Z"
+        },
+        "p_009": {
+          "photo_asset": "groups/g_italy/photos/p_009.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-15T17:12:35Z"
+        },
+        "p_010": {
+          "photo_asset": "groups/g_italy/photos/p_010.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-15T18:18:01Z"
+        },
+        "p_011": {
+          "photo_asset": "groups/g_italy/photos/p_011.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-15T19:20:31Z"
+        },
+        "p_012": {
+          "photo_asset": "groups/g_italy/photos/p_012.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-15T20:24:15Z"
+        },
+        "p_013": {
+          "photo_asset": "groups/g_italy/photos/p_013.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-15T21:30:37Z"
+        },
+        "p_014": {
+          "photo_asset": "groups/g_italy/photos/p_014.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-15T22:32:45Z"
+        },
+        "p_015": {
+          "photo_asset": "groups/g_italy/photos/p_015.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-15T23:37:20Z"
+        },
+        "p_016": {
+          "photo_asset": "groups/g_italy/photos/p_016.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-16T00:47:23Z"
+        },
+        "p_017": {
+          "photo_asset": "groups/g_italy/photos/p_017.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-16T01:50:21Z"
+        },
+        "p_018": {
+          "photo_asset": "groups/g_italy/photos/p_018.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-16T02:53:22Z"
+        },
+        "p_019": {
+          "photo_asset": "groups/g_italy/photos/p_019.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-16T03:54:10Z"
+        },
+        "p_020": {
+          "photo_asset": "groups/g_italy/photos/p_020.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-16T05:02:43Z"
+        },
+        "p_021": {
+          "photo_asset": "groups/g_italy/photos/p_021.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-16T06:10:47Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of a statue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.95,
+            "reason": "A bronze statue is the main subject of the photo.",
+            "tags": [
+              "statue",
+              "bronze",
+              "park"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-16T06:10:51Z"
+          }
+        },
+        "p_022": {
+          "photo_asset": "groups/g_italy/photos/p_022.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-16T07:08:57Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of a statue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.9,
+            "reason": "A marble statue is visible behind the group.",
+            "tags": [
+              "statue",
+              "marble",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-16T07:09:01Z"
+          }
+        },
+        "p_023": {
+          "photo_asset": "groups/g_italy/photos/p_023.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-16T08:17:21Z"
+        },
+        "p_024": {
+          "photo_asset": "groups/g_italy/photos/p_024.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-16T09:23:33Z"
+        },
+        "p_025": {
+          "photo_asset": "groups/g_italy/photos/p_025.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-16T10:27:38Z"
+        },
+        "p_026": {
+          "photo_asset": "groups/g_italy/photos/p_026.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-16T11:29:00Z"
+        },
+        "p_027": {
+          "photo_asset": "groups/g_italy/photos/p_027.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-16T12:34:35Z"
+        },
+        "p_028": {
+          "photo_asset": "groups/g_italy/photos/p_028.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-16T13:38:22Z"
+        },
+        "p_029": {
+          "photo_asset": "groups/g_italy/photos/p_029.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-16T14:49:34Z"
+        },
+        "p_030": {
+          "photo_asset": "groups/g_italy/photos/p_030.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-16T15:50:19Z"
+        },
+        "p_031": {
+          "photo_asset": "groups/g_italy/photos/p_031.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-16T16:58:40Z"
+        },
+        "p_032": {
+          "photo_asset": "groups/g_italy/photos/p_032.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-16T17:56:43Z"
+        },
+        "p_033": {
+          "photo_asset": "groups/g_italy/photos/p_033.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-16T19:06:39Z"
+        },
+        "p_034": {
+          "photo_asset": "groups/g_italy/photos/p_034.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-16T20:05:40Z"
+        },
+        "p_035": {
+          "photo_asset": "groups/g_italy/photos/p_035.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-16T21:13:49Z"
+        },
+        "p_036": {
+          "photo_asset": "groups/g_italy/photos/p_036.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-16T22:18:57Z"
+        },
+        "p_037": {
+          "photo_asset": "groups/g_italy/photos/p_037.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-16T23:25:30Z"
+        },
+        "p_038": {
+          "photo_asset": "groups/g_italy/photos/p_038.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-17T00:30:32Z"
+        },
+        "p_039": {
+          "photo_asset": "groups/g_italy/photos/p_039.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-17T01:30:10Z"
+        },
+        "p_040": {
+          "photo_asset": "groups/g_italy/photos/p_040.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-17T02:35:13Z"
+        },
+        "p_041": {
+          "photo_asset": "groups/g_italy/photos/p_041.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-17T03:45:17Z"
+        },
+        "p_042": {
+          "photo_asset": "groups/g_italy/photos/p_042.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-17T04:51:35Z"
+        },
+        "p_043": {
+          "photo_asset": "groups/g_italy/photos/p_043.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-17T05:50:30Z"
+        },
+        "p_044": {
+          "photo_asset": "groups/g_italy/photos/p_044.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-17T06:54:36Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of the best gelato you can find",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.96,
+            "reason": "Two scoops of gelato are front and center.",
+            "tags": [
+              "gelato",
+              "dessert",
+              "cone"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-17T06:54:40Z"
+          }
+        },
+        "p_045": {
+          "photo_asset": "groups/g_italy/photos/p_045.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-17T08:03:50Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of the best gelato you can find",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.89,
+            "reason": "A gelato display case fills the frame.",
+            "tags": [
+              "gelato",
+              "shop",
+              "display"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-17T08:03:54Z"
+          }
+        },
+        "p_046": {
+          "photo_asset": "groups/g_italy/photos/p_046.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-17T09:05:19Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of the best gelato you can find",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.96,
+            "reason": "Two scoops of gelato are front and center.",
+            "tags": [
+              "gelato",
+              "dessert",
+              "cone"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-17T09:05:23Z"
+          }
+        },
+        "p_047": {
+          "photo_asset": "groups/g_italy/photos/p_047.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-17T10:12:27Z"
+        },
+        "p_048": {
+          "photo_asset": "groups/g_italy/photos/p_048.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-17T11:15:55Z"
+        },
+        "p_049": {
+          "photo_asset": "groups/g_italy/photos/p_049.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-17T12:18:29Z"
+        },
+        "p_050": {
+          "photo_asset": "groups/g_italy/photos/p_050.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-17T13:23:19Z"
+        },
+        "p_051": {
+          "photo_asset": "groups/g_italy/photos/p_051.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-17T14:33:58Z"
+        },
+        "p_052": {
+          "photo_asset": "groups/g_italy/photos/p_052.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-17T15:33:27Z"
+        },
+        "p_053": {
+          "photo_asset": "groups/g_italy/photos/p_053.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-17T16:36:09Z"
+        },
+        "p_054": {
+          "photo_asset": "groups/g_italy/photos/p_054.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-17T17:47:09Z"
+        },
+        "p_055": {
+          "photo_asset": "groups/g_italy/photos/p_055.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-17T18:49:54Z"
+        },
+        "p_056": {
+          "photo_asset": "groups/g_italy/photos/p_056.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-17T19:57:28Z"
+        },
+        "p_057": {
+          "photo_asset": "groups/g_italy/photos/p_057.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-17T20:58:42Z"
+        },
+        "p_058": {
+          "photo_asset": "groups/g_italy/photos/p_058.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-17T22:00:29Z"
+        },
+        "p_059": {
+          "photo_asset": "groups/g_italy/photos/p_059.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-17T23:09:30Z"
+        },
+        "p_060": {
+          "photo_asset": "groups/g_italy/photos/p_060.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-18T00:15:33Z"
+        },
+        "p_061": {
+          "photo_asset": "groups/g_italy/photos/p_061.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-18T01:16:04Z"
+        },
+        "p_062": {
+          "photo_asset": "groups/g_italy/photos/p_062.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-18T02:25:02Z"
+        },
+        "p_063": {
+          "photo_asset": "groups/g_italy/photos/p_063.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-18T03:27:48Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.98,
+            "reason": "A small terrier is looking straight at the camera.",
+            "tags": [
+              "dog",
+              "terrier",
+              "sidewalk"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-18T03:27:52Z"
+          }
+        },
+        "p_064": {
+          "photo_asset": "groups/g_italy/photos/p_064.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-18T04:28:53Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.83,
+            "reason": "There's a cat in the photo, not a dog.",
+            "tags": [
+              "cat",
+              "window",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-18T04:28:57Z"
+          }
+        },
+        "p_065": {
+          "photo_asset": "groups/g_italy/photos/p_065.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-18T05:33:32Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.98,
+            "reason": "A small terrier is looking straight at the camera.",
+            "tags": [
+              "dog",
+              "terrier",
+              "sidewalk"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-18T05:33:36Z"
+          }
+        },
+        "p_066": {
+          "photo_asset": "groups/g_italy/photos/p_066.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-18T06:38:38Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.83,
+            "reason": "There's a cat in the photo, not a dog.",
+            "tags": [
+              "cat",
+              "window",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2026-06-18T06:38:42Z"
+          }
+        },
+        "p_067": {
+          "photo_asset": "groups/g_italy/photos/p_067.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-18T07:50:30Z"
+        },
+        "p_068": {
+          "photo_asset": "groups/g_italy/photos/p_068.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-18T08:52:22Z"
+        },
+        "p_069": {
+          "photo_asset": "groups/g_italy/photos/p_069.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-18T09:56:41Z"
+        },
+        "p_070": {
+          "photo_asset": "groups/g_italy/photos/p_070.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-18T10:58:07Z"
+        },
+        "p_071": {
+          "photo_asset": "groups/g_italy/photos/p_071.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-18T12:02:24Z"
+        },
+        "p_072": {
+          "photo_asset": "groups/g_italy/photos/p_072.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-18T13:08:46Z"
+        },
+        "p_073": {
+          "photo_asset": "groups/g_italy/photos/p_073.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-18T14:12:02Z"
+        },
+        "p_074": {
+          "photo_asset": "groups/g_italy/photos/p_074.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-18T15:20:14Z"
+        },
+        "p_075": {
+          "photo_asset": "groups/g_italy/photos/p_075.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-18T16:25:40Z"
+        },
+        "p_076": {
+          "photo_asset": "groups/g_italy/photos/p_076.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-18T17:28:58Z"
+        },
+        "p_077": {
+          "photo_asset": "groups/g_italy/photos/p_077.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-18T18:30:25Z"
+        },
+        "p_078": {
+          "photo_asset": "groups/g_italy/photos/p_078.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-18T19:35:14Z"
+        },
+        "p_079": {
+          "photo_asset": "groups/g_italy/photos/p_079.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-18T20:41:10Z"
+        },
+        "p_080": {
+          "photo_asset": "groups/g_italy/photos/p_080.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-18T21:44:35Z"
+        },
+        "p_081": {
+          "photo_asset": "groups/g_italy/photos/p_081.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-18T22:50:35Z"
+        },
+        "p_082": {
+          "photo_asset": "groups/g_italy/photos/p_082.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-18T23:58:40Z"
+        },
+        "p_083": {
+          "photo_asset": "groups/g_italy/photos/p_083.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-19T01:03:16Z"
+        },
+        "p_084": {
+          "photo_asset": "groups/g_italy/photos/p_084.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-19T02:09:23Z"
+        },
+        "p_085": {
+          "photo_asset": "groups/g_italy/photos/p_085.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-19T03:10:16Z"
+        },
+        "p_086": {
+          "photo_asset": "groups/g_italy/photos/p_086.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-19T04:20:17Z"
+        },
+        "p_087": {
+          "photo_asset": "groups/g_italy/photos/p_087.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-19T05:23:18Z",
+          "quest_id": "q_04",
+          "quest_prompt": "Take a photo of someone mid-laugh"
+        },
+        "p_088": {
+          "photo_asset": "groups/g_italy/photos/p_088.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-19T06:30:25Z",
+          "quest_id": "q_04",
+          "quest_prompt": "Take a photo of someone mid-laugh"
+        },
+        "p_089": {
+          "photo_asset": "groups/g_italy/photos/p_089.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-19T07:32:56Z",
+          "quest_id": "q_04",
+          "quest_prompt": "Take a photo of someone mid-laugh"
+        },
+        "p_090": {
+          "photo_asset": "groups/g_italy/photos/p_090.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-19T08:34:23Z",
+          "quest_id": "q_04",
+          "quest_prompt": "Take a photo of someone mid-laugh"
+        },
+        "p_091": {
+          "photo_asset": "groups/g_italy/photos/p_091.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-19T09:38:40Z"
+        },
+        "p_092": {
+          "photo_asset": "groups/g_italy/photos/p_092.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-19T10:43:55Z"
+        },
+        "p_093": {
+          "photo_asset": "groups/g_italy/photos/p_093.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-19T11:50:15Z"
+        },
+        "p_094": {
+          "photo_asset": "groups/g_italy/photos/p_094.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-19T12:55:56Z"
+        },
+        "p_095": {
+          "photo_asset": "groups/g_italy/photos/p_095.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-19T14:02:08Z"
+        },
+        "p_096": {
+          "photo_asset": "groups/g_italy/photos/p_096.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-19T15:06:44Z"
+        },
+        "p_097": {
+          "photo_asset": "groups/g_italy/photos/p_097.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-19T16:05:59Z"
+        },
+        "p_098": {
+          "photo_asset": "groups/g_italy/photos/p_098.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-19T17:12:54Z"
+        },
+        "p_099": {
+          "photo_asset": "groups/g_italy/photos/p_099.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-19T18:22:06Z"
+        },
+        "p_100": {
+          "photo_asset": "groups/g_italy/photos/p_100.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-19T19:20:14Z"
+        },
+        "p_101": {
+          "photo_asset": "groups/g_italy/photos/p_101.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-19T20:28:36Z"
+        },
+        "p_102": {
+          "photo_asset": "groups/g_italy/photos/p_102.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-19T21:34:18Z"
+        },
+        "p_103": {
+          "photo_asset": "groups/g_italy/photos/p_103.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-19T22:36:54Z"
+        },
+        "p_104": {
+          "photo_asset": "groups/g_italy/photos/p_104.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-19T23:39:15Z"
+        },
+        "p_105": {
+          "photo_asset": "groups/g_italy/photos/p_105.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-20T00:44:22Z"
+        },
+        "p_106": {
+          "photo_asset": "groups/g_italy/photos/p_106.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-20T01:53:05Z"
+        },
+        "p_107": {
+          "photo_asset": "groups/g_italy/photos/p_107.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-20T03:00:37Z"
+        },
+        "p_108": {
+          "photo_asset": "groups/g_italy/photos/p_108.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-20T04:02:14Z"
+        },
+        "p_109": {
+          "photo_asset": "groups/g_italy/photos/p_109.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-20T05:04:34Z"
+        },
+        "p_110": {
+          "photo_asset": "groups/g_italy/photos/p_110.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-20T06:10:51Z"
+        },
+        "p_111": {
+          "photo_asset": "groups/g_italy/photos/p_111.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-20T07:19:36Z"
+        },
+        "p_112": {
+          "photo_asset": "groups/g_italy/photos/p_112.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-20T08:20:22Z"
+        },
+        "p_113": {
+          "photo_asset": "groups/g_italy/photos/p_113.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-20T09:27:51Z"
+        },
+        "p_114": {
+          "photo_asset": "groups/g_italy/photos/p_114.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-20T10:31:37Z"
+        },
+        "p_115": {
+          "photo_asset": "groups/g_italy/photos/p_115.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-20T11:32:41Z"
+        },
+        "p_116": {
+          "photo_asset": "groups/g_italy/photos/p_116.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_amanda",
+          "captured_at": "2026-06-20T12:41:55Z"
+        },
+        "p_117": {
+          "photo_asset": "groups/g_italy/photos/p_117.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_diego",
+          "captured_at": "2026-06-20T13:44:15Z"
+        },
+        "p_118": {
+          "photo_asset": "groups/g_italy/photos/p_118.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_greg",
+          "captured_at": "2026-06-20T14:52:40Z"
+        },
+        "p_119": {
+          "photo_asset": "groups/g_italy/photos/p_119.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_haley",
+          "captured_at": "2026-06-20T15:57:31Z"
+        },
+        "p_120": {
+          "photo_asset": "groups/g_italy/photos/p_120.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_jen",
+          "captured_at": "2026-06-20T17:02:30Z"
+        },
+        "p_121": {
+          "photo_asset": "groups/g_italy/photos/p_121.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_sharon",
+          "captured_at": "2026-06-20T18:06:08Z"
+        },
+        "p_122": {
+          "photo_asset": "groups/g_italy/photos/p_122.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_anabella",
+          "captured_at": "2026-06-20T19:09:07Z"
+        },
+        "p_123": {
+          "photo_asset": "groups/g_italy/photos/p_123.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_steph",
+          "captured_at": "2026-06-20T20:14:29Z"
+        },
+        "p_124": {
+          "photo_asset": "groups/g_italy/photos/p_124.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_lily",
+          "captured_at": "2026-06-20T21:15:39Z"
+        },
+        "p_125": {
+          "photo_asset": "groups/g_italy/photos/p_125.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_michael",
+          "captured_at": "2026-06-20T22:24:23Z"
+        },
+        "p_126": {
+          "photo_asset": "groups/g_italy/photos/p_126.jpg",
+          "group_id": "g_italy",
+          "photographer_id": "u_streak",
+          "captured_at": "2026-06-20T23:30:23Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_friendsgiving/members",
+      "documents": {
+        "u_anabella": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_anabella",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:06:00Z"
+        },
+        "u_brittney": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_brittney",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:34:00Z"
+        },
+        "u_fred": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_fred",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:41:00Z"
+        },
+        "u_jade": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_jade",
+          "membership_status": "left",
+          "joined_at": "2025-11-24T22:00:00Z",
+          "left_at": "2025-12-28T05:00:00Z"
+        },
+        "u_kyle": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_kyle",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T21:02:00Z"
+        },
+        "u_lily": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_lily",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:00:00Z"
+        },
+        "u_michael": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_michael",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:27:00Z"
+        },
+        "u_paaramita": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_paaramita",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:48:00Z"
+        },
+        "u_rachel": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_rachel",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:55:00Z"
+        },
+        "u_steph": {
+          "group_id": "g_friendsgiving",
+          "user_id": "u_steph",
+          "membership_status": "active",
+          "joined_at": "2025-11-24T20:13:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_friendsgiving/quests",
+      "documents": {
+        "q_01": {
+          "prompt": "Take a photo of the snack table",
+          "checkable": true,
+          "order": 1,
+          "starts_at": "2025-11-27T21:00:00Z",
+          "ends_at": "2025-11-27T23:00:00Z",
+          "source": "bank"
+        },
+        "q_02": {
+          "prompt": "Take a photo of something orange",
+          "checkable": true,
+          "order": 2,
+          "starts_at": "2025-11-28T00:00:00Z",
+          "ends_at": "2025-11-28T02:00:00Z",
+          "source": "bank"
+        },
+        "q_03": {
+          "prompt": "Take the most dramatic photo you can",
+          "checkable": false,
+          "order": 3,
+          "starts_at": "2025-11-28T02:30:00Z",
+          "ends_at": "2025-11-28T04:00:00Z",
+          "source": "bank"
+        }
+      }
+    },
+    {
+      "path": "groups/g_friendsgiving/photos",
+      "documents": {
+        "p_001": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_001.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-27T20:23:40Z"
+        },
+        "p_002": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_002.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-27T20:28:09Z"
+        },
+        "p_003": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_003.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-27T20:36:54Z"
+        },
+        "p_004": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_004.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-27T20:42:34Z"
+        },
+        "p_005": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_005.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-27T20:48:07Z"
+        },
+        "p_006": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_006.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-27T20:56:50Z"
+        },
+        "p_007": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_007.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-27T21:03:29Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T21:03:33Z"
+          }
+        },
+        "p_008": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_008.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-27T21:16:04Z"
+        },
+        "p_009": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_009.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-27T21:18:45Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T21:18:49Z"
+          }
+        },
+        "p_010": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_010.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-27T21:27:35Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T21:27:39Z"
+          }
+        },
+        "p_011": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_011.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-27T21:32:15Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T21:32:19Z"
+          }
+        },
+        "p_012": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_012.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-27T21:45:06Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T21:45:10Z"
+          }
+        },
+        "p_013": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_013.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-27T21:46:01Z"
+        },
+        "p_014": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_014.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-27T21:59:05Z"
+        },
+        "p_015": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_015.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-27T21:59:00Z"
+        },
+        "p_016": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_016.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-27T22:09:00Z"
+        },
+        "p_017": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_017.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-27T22:13:28Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T22:13:32Z"
+          }
+        },
+        "p_018": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_018.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-27T22:21:56Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T22:22:00Z"
+          }
+        },
+        "p_019": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_019.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-27T22:34:29Z"
+        },
+        "p_020": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_020.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-27T22:36:35Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T22:36:39Z"
+          }
+        },
+        "p_021": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_021.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-27T22:47:26Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T22:47:30Z"
+          }
+        },
+        "p_022": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_022.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-27T22:54:13Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of the snack table",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.92,
+            "reason": "A table full of snacks and drinks is the main subject.",
+            "tags": [
+              "food",
+              "table",
+              "party"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-27T22:54:17Z"
+          }
+        },
+        "p_023": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_023.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-27T23:03:08Z"
+        },
+        "p_024": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_024.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-27T23:04:07Z"
+        },
+        "p_025": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_025.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-27T23:10:22Z"
+        },
+        "p_026": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_026.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-27T23:22:35Z"
+        },
+        "p_027": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_027.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-27T23:29:32Z"
+        },
+        "p_028": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_028.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-27T23:36:17Z"
+        },
+        "p_029": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_029.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-27T23:45:37Z"
+        },
+        "p_030": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_030.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-27T23:52:58Z"
+        },
+        "p_031": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_031.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-27T23:54:54Z"
+        },
+        "p_032": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_032.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-28T00:00:05Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.91,
+            "reason": "A pile of orange pumpkins fills the frame.",
+            "tags": [
+              "orange",
+              "pumpkin",
+              "autumn"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T00:00:09Z"
+          }
+        },
+        "p_033": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_033.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-28T00:14:19Z"
+        },
+        "p_034": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_034.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-28T00:17:53Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.86,
+            "reason": "An orange sweater is the brightest thing in the photo.",
+            "tags": [
+              "orange",
+              "sweater",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T00:17:57Z"
+          }
+        },
+        "p_035": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_035.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-28T00:22:02Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.91,
+            "reason": "A pile of orange pumpkins fills the frame.",
+            "tags": [
+              "orange",
+              "pumpkin",
+              "autumn"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T00:22:06Z"
+          }
+        },
+        "p_036": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_036.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-28T00:30:12Z"
+        },
+        "p_037": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_037.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-28T00:38:27Z"
+        },
+        "p_038": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_038.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-28T00:49:25Z"
+        },
+        "p_039": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_039.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-28T00:49:50Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.86,
+            "reason": "An orange sweater is the brightest thing in the photo.",
+            "tags": [
+              "orange",
+              "sweater",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T00:49:54Z"
+          }
+        },
+        "p_040": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_040.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-28T01:00:15Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.91,
+            "reason": "A pile of orange pumpkins fills the frame.",
+            "tags": [
+              "orange",
+              "pumpkin",
+              "autumn"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:00:19Z"
+          }
+        },
+        "p_041": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_041.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-28T01:06:59Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.86,
+            "reason": "An orange sweater is the brightest thing in the photo.",
+            "tags": [
+              "orange",
+              "sweater",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:07:03Z"
+          }
+        },
+        "p_042": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_042.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-28T01:16:55Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.91,
+            "reason": "A pile of orange pumpkins fills the frame.",
+            "tags": [
+              "orange",
+              "pumpkin",
+              "autumn"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:16:59Z"
+          }
+        },
+        "p_043": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_043.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-28T01:25:26Z"
+        },
+        "p_044": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_044.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-28T01:32:17Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.86,
+            "reason": "An orange sweater is the brightest thing in the photo.",
+            "tags": [
+              "orange",
+              "sweater",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:32:21Z"
+          }
+        },
+        "p_045": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_045.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-28T01:36:13Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.91,
+            "reason": "A pile of orange pumpkins fills the frame.",
+            "tags": [
+              "orange",
+              "pumpkin",
+              "autumn"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:36:17Z"
+          }
+        },
+        "p_046": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_046.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-28T01:40:51Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.86,
+            "reason": "An orange sweater is the brightest thing in the photo.",
+            "tags": [
+              "orange",
+              "sweater",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:40:55Z"
+          }
+        },
+        "p_047": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_047.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-28T01:47:10Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.91,
+            "reason": "A pile of orange pumpkins fills the frame.",
+            "tags": [
+              "orange",
+              "pumpkin",
+              "autumn"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:47:14Z"
+          }
+        },
+        "p_048": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_048.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-28T01:56:57Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of something orange",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.86,
+            "reason": "An orange sweater is the brightest thing in the photo.",
+            "tags": [
+              "orange",
+              "sweater",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-11-28T01:57:01Z"
+          }
+        },
+        "p_049": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_049.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-28T02:03:57Z"
+        },
+        "p_050": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_050.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-28T02:13:08Z"
+        },
+        "p_051": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_051.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-28T02:17:17Z"
+        },
+        "p_052": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_052.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-28T02:28:04Z"
+        },
+        "p_053": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_053.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-28T02:36:20Z"
+        },
+        "p_054": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_054.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-28T02:38:54Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_055": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_055.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-28T02:45:25Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_056": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_056.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-28T02:52:09Z"
+        },
+        "p_057": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_057.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-28T03:03:13Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_058": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_058.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-28T03:08:50Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_059": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_059.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-28T03:12:45Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_060": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_060.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-28T03:21:16Z"
+        },
+        "p_061": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_061.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_paaramita",
+          "captured_at": "2025-11-28T03:30:38Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_062": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_062.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_rachel",
+          "captured_at": "2025-11-28T03:32:44Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_063": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_063.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_kyle",
+          "captured_at": "2025-11-28T03:45:54Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_064": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_064.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-11-28T03:51:58Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_065": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_065.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-11-28T03:59:31Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take the most dramatic photo you can"
+        },
+        "p_066": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_066.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-11-28T04:07:59Z"
+        },
+        "p_067": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_067.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_michael",
+          "captured_at": "2025-11-28T04:12:11Z"
+        },
+        "p_068": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_068.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_brittney",
+          "captured_at": "2025-11-28T04:17:59Z"
+        },
+        "p_069": {
+          "photo_asset": "groups/g_friendsgiving/photos/p_069.jpg",
+          "group_id": "g_friendsgiving",
+          "photographer_id": "u_fred",
+          "captured_at": "2025-11-28T04:30:09Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_beach/members",
+      "documents": {
+        "u_anabella": {
+          "group_id": "g_beach",
+          "user_id": "u_anabella",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:00:00Z"
+        },
+        "u_haley": {
+          "group_id": "g_beach",
+          "user_id": "u_haley",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:48:00Z"
+        },
+        "u_lily": {
+          "group_id": "g_beach",
+          "user_id": "u_lily",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:20:00Z"
+        },
+        "u_sammy": {
+          "group_id": "g_beach",
+          "user_id": "u_sammy",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:27:00Z"
+        },
+        "u_steph": {
+          "group_id": "g_beach",
+          "user_id": "u_steph",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:13:00Z"
+        },
+        "u_ted": {
+          "group_id": "g_beach",
+          "user_id": "u_ted",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:34:00Z"
+        },
+        "u_umed": {
+          "group_id": "g_beach",
+          "user_id": "u_umed",
+          "membership_status": "active",
+          "joined_at": "2025-10-19T08:41:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_beach/quests",
+      "documents": {
+        "q_01": {
+          "prompt": "Take a photo of something blue",
+          "checkable": true,
+          "order": 1,
+          "starts_at": "2025-10-20T09:00:00Z",
+          "ends_at": "2025-10-20T11:00:00Z",
+          "source": "bank"
+        },
+        "q_02": {
+          "prompt": "Take a photo of a dog (ask the owner first!)",
+          "checkable": true,
+          "order": 2,
+          "starts_at": "2025-10-20T11:30:00Z",
+          "ends_at": "2025-10-20T13:00:00Z",
+          "source": "bank"
+        },
+        "q_03": {
+          "prompt": "Take a photo with a sunset in it",
+          "checkable": true,
+          "order": 3,
+          "starts_at": "2025-10-20T14:00:00Z",
+          "ends_at": "2025-10-20T16:00:00Z",
+          "source": "bank"
+        }
+      }
+    },
+    {
+      "path": "groups/g_beach/photos",
+      "documents": {
+        "p_001": {
+          "photo_asset": "groups/g_beach/photos/p_001.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T08:16:44Z"
+        },
+        "p_002": {
+          "photo_asset": "groups/g_beach/photos/p_002.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T08:25:07Z"
+        },
+        "p_003": {
+          "photo_asset": "groups/g_beach/photos/p_003.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T08:34:52Z"
+        },
+        "p_004": {
+          "photo_asset": "groups/g_beach/photos/p_004.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T08:41:26Z"
+        },
+        "p_005": {
+          "photo_asset": "groups/g_beach/photos/p_005.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T08:55:14Z"
+        },
+        "p_006": {
+          "photo_asset": "groups/g_beach/photos/p_006.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T08:59:27Z"
+        },
+        "p_007": {
+          "photo_asset": "groups/g_beach/photos/p_007.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T09:10:27Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.97,
+            "reason": "A bright blue mug fills most of the frame.",
+            "tags": [
+              "blue",
+              "mug",
+              "table"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:10:31Z"
+          }
+        },
+        "p_008": {
+          "photo_asset": "groups/g_beach/photos/p_008.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T09:16:04Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.93,
+            "reason": "The blue door is the clear subject of the photo.",
+            "tags": [
+              "blue",
+              "door",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:16:08Z"
+          }
+        },
+        "p_009": {
+          "photo_asset": "groups/g_beach/photos/p_009.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T09:26:27Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.84,
+            "reason": "The main subject is green, not blue.",
+            "tags": [
+              "plant",
+              "green",
+              "window"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:26:31Z"
+          }
+        },
+        "p_010": {
+          "photo_asset": "groups/g_beach/photos/p_010.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T09:35:51Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.97,
+            "reason": "A bright blue mug fills most of the frame.",
+            "tags": [
+              "blue",
+              "mug",
+              "table"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:35:55Z"
+          }
+        },
+        "p_011": {
+          "photo_asset": "groups/g_beach/photos/p_011.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T09:43:13Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.93,
+            "reason": "The blue door is the clear subject of the photo.",
+            "tags": [
+              "blue",
+              "door",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:43:17Z"
+          }
+        },
+        "p_012": {
+          "photo_asset": "groups/g_beach/photos/p_012.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T09:52:31Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.84,
+            "reason": "The main subject is green, not blue.",
+            "tags": [
+              "plant",
+              "green",
+              "window"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:52:35Z"
+          }
+        },
+        "p_013": {
+          "photo_asset": "groups/g_beach/photos/p_013.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T09:56:46Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.97,
+            "reason": "A bright blue mug fills most of the frame.",
+            "tags": [
+              "blue",
+              "mug",
+              "table"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T09:56:50Z"
+          }
+        },
+        "p_014": {
+          "photo_asset": "groups/g_beach/photos/p_014.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T10:10:14Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.93,
+            "reason": "The blue door is the clear subject of the photo.",
+            "tags": [
+              "blue",
+              "door",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T10:10:18Z"
+          }
+        },
+        "p_015": {
+          "photo_asset": "groups/g_beach/photos/p_015.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T10:15:44Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.84,
+            "reason": "The main subject is green, not blue.",
+            "tags": [
+              "plant",
+              "green",
+              "window"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T10:15:48Z"
+          }
+        },
+        "p_016": {
+          "photo_asset": "groups/g_beach/photos/p_016.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T10:25:42Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.97,
+            "reason": "A bright blue mug fills most of the frame.",
+            "tags": [
+              "blue",
+              "mug",
+              "table"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T10:25:46Z"
+          }
+        },
+        "p_017": {
+          "photo_asset": "groups/g_beach/photos/p_017.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T10:37:28Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.93,
+            "reason": "The blue door is the clear subject of the photo.",
+            "tags": [
+              "blue",
+              "door",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T10:37:32Z"
+          }
+        },
+        "p_018": {
+          "photo_asset": "groups/g_beach/photos/p_018.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T10:42:19Z",
+          "quest_id": "q_01",
+          "quest_prompt": "Take a photo of something blue",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.84,
+            "reason": "The main subject is green, not blue.",
+            "tags": [
+              "plant",
+              "green",
+              "window"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T10:42:23Z"
+          }
+        },
+        "p_019": {
+          "photo_asset": "groups/g_beach/photos/p_019.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T10:54:46Z"
+        },
+        "p_020": {
+          "photo_asset": "groups/g_beach/photos/p_020.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T11:02:04Z"
+        },
+        "p_021": {
+          "photo_asset": "groups/g_beach/photos/p_021.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T11:07:07Z"
+        },
+        "p_022": {
+          "photo_asset": "groups/g_beach/photos/p_022.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T11:19:44Z"
+        },
+        "p_023": {
+          "photo_asset": "groups/g_beach/photos/p_023.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T11:24:17Z"
+        },
+        "p_024": {
+          "photo_asset": "groups/g_beach/photos/p_024.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T11:29:47Z"
+        },
+        "p_025": {
+          "photo_asset": "groups/g_beach/photos/p_025.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T11:43:09Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.98,
+            "reason": "A small terrier is looking straight at the camera.",
+            "tags": [
+              "dog",
+              "terrier",
+              "sidewalk"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T11:43:13Z"
+          }
+        },
+        "p_026": {
+          "photo_asset": "groups/g_beach/photos/p_026.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T11:53:31Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.83,
+            "reason": "There's a cat in the photo, not a dog.",
+            "tags": [
+              "cat",
+              "window",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T11:53:35Z"
+          }
+        },
+        "p_027": {
+          "photo_asset": "groups/g_beach/photos/p_027.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T11:55:00Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.98,
+            "reason": "A small terrier is looking straight at the camera.",
+            "tags": [
+              "dog",
+              "terrier",
+              "sidewalk"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T11:55:04Z"
+          }
+        },
+        "p_028": {
+          "photo_asset": "groups/g_beach/photos/p_028.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T12:06:14Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.83,
+            "reason": "There's a cat in the photo, not a dog.",
+            "tags": [
+              "cat",
+              "window",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T12:06:18Z"
+          }
+        },
+        "p_029": {
+          "photo_asset": "groups/g_beach/photos/p_029.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T12:18:17Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.98,
+            "reason": "A small terrier is looking straight at the camera.",
+            "tags": [
+              "dog",
+              "terrier",
+              "sidewalk"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T12:18:21Z"
+          }
+        },
+        "p_030": {
+          "photo_asset": "groups/g_beach/photos/p_030.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T12:25:11Z"
+        },
+        "p_031": {
+          "photo_asset": "groups/g_beach/photos/p_031.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T12:29:25Z"
+        },
+        "p_032": {
+          "photo_asset": "groups/g_beach/photos/p_032.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T12:38:33Z"
+        },
+        "p_033": {
+          "photo_asset": "groups/g_beach/photos/p_033.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T12:45:29Z",
+          "quest_id": "q_02",
+          "quest_prompt": "Take a photo of a dog (ask the owner first!)",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.83,
+            "reason": "There's a cat in the photo, not a dog.",
+            "tags": [
+              "cat",
+              "window",
+              "street"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T12:45:33Z"
+          }
+        },
+        "p_034": {
+          "photo_asset": "groups/g_beach/photos/p_034.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T13:00:36Z"
+        },
+        "p_035": {
+          "photo_asset": "groups/g_beach/photos/p_035.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T13:08:48Z"
+        },
+        "p_036": {
+          "photo_asset": "groups/g_beach/photos/p_036.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T13:12:21Z"
+        },
+        "p_037": {
+          "photo_asset": "groups/g_beach/photos/p_037.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T13:23:10Z"
+        },
+        "p_038": {
+          "photo_asset": "groups/g_beach/photos/p_038.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T13:32:35Z"
+        },
+        "p_039": {
+          "photo_asset": "groups/g_beach/photos/p_039.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T13:39:04Z"
+        },
+        "p_040": {
+          "photo_asset": "groups/g_beach/photos/p_040.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T13:44:27Z"
+        },
+        "p_041": {
+          "photo_asset": "groups/g_beach/photos/p_041.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T13:57:36Z"
+        },
+        "p_042": {
+          "photo_asset": "groups/g_beach/photos/p_042.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T14:07:53Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.94,
+            "reason": "The sun is setting over the water behind the group.",
+            "tags": [
+              "sunset",
+              "beach",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T14:07:57Z"
+          }
+        },
+        "p_043": {
+          "photo_asset": "groups/g_beach/photos/p_043.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T14:12:41Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.77,
+            "reason": "The photo was taken in full daylight with no sunset visible.",
+            "tags": [
+              "beach",
+              "sand",
+              "daytime"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T14:12:45Z"
+          }
+        },
+        "p_044": {
+          "photo_asset": "groups/g_beach/photos/p_044.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T14:17:53Z"
+        },
+        "p_045": {
+          "photo_asset": "groups/g_beach/photos/p_045.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T14:28:20Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.94,
+            "reason": "The sun is setting over the water behind the group.",
+            "tags": [
+              "sunset",
+              "beach",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T14:28:24Z"
+          }
+        },
+        "p_046": {
+          "photo_asset": "groups/g_beach/photos/p_046.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T14:40:49Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.77,
+            "reason": "The photo was taken in full daylight with no sunset visible.",
+            "tags": [
+              "beach",
+              "sand",
+              "daytime"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T14:40:53Z"
+          }
+        },
+        "p_047": {
+          "photo_asset": "groups/g_beach/photos/p_047.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T14:49:54Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.94,
+            "reason": "The sun is setting over the water behind the group.",
+            "tags": [
+              "sunset",
+              "beach",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T14:49:58Z"
+          }
+        },
+        "p_048": {
+          "photo_asset": "groups/g_beach/photos/p_048.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_umed",
+          "captured_at": "2025-10-20T14:51:35Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.77,
+            "reason": "The photo was taken in full daylight with no sunset visible.",
+            "tags": [
+              "beach",
+              "sand",
+              "daytime"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T14:51:39Z"
+          }
+        },
+        "p_049": {
+          "photo_asset": "groups/g_beach/photos/p_049.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_haley",
+          "captured_at": "2025-10-20T15:05:59Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.94,
+            "reason": "The sun is setting over the water behind the group.",
+            "tags": [
+              "sunset",
+              "beach",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T15:06:03Z"
+          }
+        },
+        "p_050": {
+          "photo_asset": "groups/g_beach/photos/p_050.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_anabella",
+          "captured_at": "2025-10-20T15:15:25Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.77,
+            "reason": "The photo was taken in full daylight with no sunset visible.",
+            "tags": [
+              "beach",
+              "sand",
+              "daytime"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T15:15:29Z"
+          }
+        },
+        "p_051": {
+          "photo_asset": "groups/g_beach/photos/p_051.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_steph",
+          "captured_at": "2025-10-20T15:20:46Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.94,
+            "reason": "The sun is setting over the water behind the group.",
+            "tags": [
+              "sunset",
+              "beach",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T15:20:50Z"
+          }
+        },
+        "p_052": {
+          "photo_asset": "groups/g_beach/photos/p_052.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_lily",
+          "captured_at": "2025-10-20T15:27:40Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.77,
+            "reason": "The photo was taken in full daylight with no sunset visible.",
+            "tags": [
+              "beach",
+              "sand",
+              "daytime"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T15:27:44Z"
+          }
+        },
+        "p_053": {
+          "photo_asset": "groups/g_beach/photos/p_053.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_sammy",
+          "captured_at": "2025-10-20T15:40:35Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": true,
+            "confidence": 0.94,
+            "reason": "The sun is setting over the water behind the group.",
+            "tags": [
+              "sunset",
+              "beach",
+              "people"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T15:40:39Z"
+          }
+        },
+        "p_054": {
+          "photo_asset": "groups/g_beach/photos/p_054.jpg",
+          "group_id": "g_beach",
+          "photographer_id": "u_ted",
+          "captured_at": "2025-10-20T15:48:55Z",
+          "quest_id": "q_03",
+          "quest_prompt": "Take a photo with a sunset in it",
+          "quest_check": {
+            "completed": false,
+            "confidence": 0.77,
+            "reason": "The photo was taken in full daylight with no sunset visible.",
+            "tags": [
+              "beach",
+              "sand",
+              "daytime"
+            ],
+            "model": "gemini-3.5-flash-lite",
+            "checked_at": "2025-10-20T15:48:59Z"
+          }
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/photos/p_021/comments",
+      "documents": {
+        "c_01": {
+          "author_id": "u_michael",
+          "author_name": "Michael",
+          "text": "Golden hour in Rome!!",
+          "created_at": "2026-06-21T17:20:00Z"
+        },
+        "c_02": {
+          "author_id": "u_anabella",
+          "author_name": "Anabella",
+          "text": "I knew this was Jen's the second I saw it",
+          "created_at": "2026-06-21T17:21:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/photos/p_022/comments",
+      "documents": {
+        "c_01": {
+          "author_id": "u_lily",
+          "author_name": "Lily",
+          "text": "Best day of the whole trip",
+          "created_at": "2026-06-21T17:12:00Z"
+        },
+        "c_02": {
+          "author_id": "u_steph",
+          "author_name": "Steph",
+          "text": "We got lost for an hour finding this place",
+          "created_at": "2026-06-21T17:14:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/game_sessions",
+      "documents": {
+        "game_1": {
+          "group_id": "g_italy",
+          "host_id": "u_anabella",
+          "participant_ids": [
+            "u_anabella",
+            "u_steph",
+            "u_lily",
+            "u_michael",
+            "u_streak"
+          ],
+          "ready_ids": [
+            "u_anabella",
+            "u_steph",
+            "u_lily",
+            "u_michael",
+            "u_streak"
+          ],
+          "game_status": "finished",
+          "rounds": [
+            {
+              "photo_id": "p_021",
+              "candidate_ids": [
+                "u_michael",
+                "u_amanda",
+                "u_jen",
+                "u_streak"
+              ]
+            },
+            {
+              "photo_id": "p_022",
+              "candidate_ids": [
+                "u_anabella",
+                "u_streak",
+                "u_sharon",
+                "u_haley"
+              ]
+            },
+            {
+              "photo_id": "p_044",
+              "candidate_ids": [
+                "u_haley",
+                "u_jen",
+                "u_sharon",
+                "u_diego"
+              ]
+            },
+            {
+              "photo_id": "p_063",
+              "candidate_ids": [
+                "u_greg",
+                "u_diego",
+                "u_steph",
+                "u_jen"
+              ]
+            },
+            {
+              "photo_id": "p_064",
+              "candidate_ids": [
+                "u_diego",
+                "u_haley",
+                "u_anabella",
+                "u_jen"
+              ]
+            }
+          ],
+          "current_round": 4,
+          "created_at": "2026-06-21T17:00:00Z",
+          "started_at": "2026-06-21T17:00:30Z",
+          "finished_at": "2026-06-21T17:04:25Z"
+        },
+        "game_2": {
+          "group_id": "g_italy",
+          "host_id": "u_anabella",
+          "participant_ids": [
+            "u_anabella",
+            "u_steph",
+            "u_lily",
+            "u_michael",
+            "u_streak"
+          ],
+          "ready_ids": [
+            "u_anabella",
+            "u_steph"
+          ],
+          "game_status": "lobby",
+          "rounds": [
+            {
+              "photo_id": "p_006",
+              "candidate_ids": [
+                "u_greg",
+                "u_sharon",
+                "u_michael",
+                "u_amanda"
+              ]
+            },
+            {
+              "photo_id": "p_065",
+              "candidate_ids": [
+                "u_jen",
+                "u_greg",
+                "u_diego",
+                "u_streak"
+              ]
+            },
+            {
+              "photo_id": "p_066",
+              "candidate_ids": [
+                "u_steph",
+                "u_haley",
+                "u_sharon",
+                "u_jen"
+              ]
+            },
+            {
+              "photo_id": "p_087",
+              "candidate_ids": [
+                "u_steph",
+                "u_michael",
+                "u_jen",
+                "u_anabella"
+              ]
+            },
+            {
+              "photo_id": "p_088",
+              "candidate_ids": [
+                "u_anabella",
+                "u_diego",
+                "u_haley",
+                "u_sharon"
+              ]
+            }
+          ],
+          "current_round": 0,
+          "created_at": "2026-10-20T15:50:00Z"
+        }
+      }
+    },
+    {
+      "path": "groups/g_italy/game_sessions/game_1/guesses",
+      "documents": {
+        "0_u_anabella": {
+          "game_session_id": "game_1",
+          "user_id": "u_anabella",
+          "round": 0,
+          "photo_id": "p_021",
+          "selected_user_id": "u_jen",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:00:40Z"
+        },
+        "0_u_steph": {
+          "game_session_id": "game_1",
+          "user_id": "u_steph",
+          "round": 0,
+          "photo_id": "p_021",
+          "selected_user_id": "u_jen",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:00:43Z"
+        },
+        "0_u_lily": {
+          "game_session_id": "game_1",
+          "user_id": "u_lily",
+          "round": 0,
+          "photo_id": "p_021",
+          "selected_user_id": "u_jen",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:00:46Z"
+        },
+        "0_u_michael": {
+          "game_session_id": "game_1",
+          "user_id": "u_michael",
+          "round": 0,
+          "photo_id": "p_021",
+          "selected_user_id": "u_jen",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:00:49Z"
+        },
+        "0_u_streak": {
+          "game_session_id": "game_1",
+          "user_id": "u_streak",
+          "round": 0,
+          "photo_id": "p_021",
+          "selected_user_id": "u_jen",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:00:52Z"
+        },
+        "1_u_anabella": {
+          "game_session_id": "game_1",
+          "user_id": "u_anabella",
+          "round": 1,
+          "photo_id": "p_022",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:01:25Z"
+        },
+        "1_u_steph": {
+          "game_session_id": "game_1",
+          "user_id": "u_steph",
+          "round": 1,
+          "photo_id": "p_022",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:01:28Z"
+        },
+        "1_u_lily": {
+          "game_session_id": "game_1",
+          "user_id": "u_lily",
+          "round": 1,
+          "photo_id": "p_022",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:01:31Z"
+        },
+        "1_u_michael": {
+          "game_session_id": "game_1",
+          "user_id": "u_michael",
+          "round": 1,
+          "photo_id": "p_022",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:01:34Z"
+        },
+        "1_u_streak": {
+          "game_session_id": "game_1",
+          "user_id": "u_streak",
+          "round": 1,
+          "photo_id": "p_022",
+          "selected_user_id": "u_anabella",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:01:37Z"
+        },
+        "2_u_anabella": {
+          "game_session_id": "game_1",
+          "user_id": "u_anabella",
+          "round": 2,
+          "photo_id": "p_044",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:02:10Z"
+        },
+        "2_u_steph": {
+          "game_session_id": "game_1",
+          "user_id": "u_steph",
+          "round": 2,
+          "photo_id": "p_044",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:02:13Z"
+        },
+        "2_u_lily": {
+          "game_session_id": "game_1",
+          "user_id": "u_lily",
+          "round": 2,
+          "photo_id": "p_044",
+          "selected_user_id": "u_sharon",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:02:16Z"
+        },
+        "2_u_michael": {
+          "game_session_id": "game_1",
+          "user_id": "u_michael",
+          "round": 2,
+          "photo_id": "p_044",
+          "selected_user_id": "u_haley",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:02:19Z"
+        },
+        "2_u_streak": {
+          "game_session_id": "game_1",
+          "user_id": "u_streak",
+          "round": 2,
+          "photo_id": "p_044",
+          "selected_user_id": "u_haley",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:02:22Z"
+        },
+        "3_u_anabella": {
+          "game_session_id": "game_1",
+          "user_id": "u_anabella",
+          "round": 3,
+          "photo_id": "p_063",
+          "selected_user_id": "u_greg",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:02:55Z"
+        },
+        "3_u_steph": {
+          "game_session_id": "game_1",
+          "user_id": "u_steph",
+          "round": 3,
+          "photo_id": "p_063",
+          "selected_user_id": "u_greg",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:02:58Z"
+        },
+        "3_u_lily": {
+          "game_session_id": "game_1",
+          "user_id": "u_lily",
+          "round": 3,
+          "photo_id": "p_063",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:01Z"
+        },
+        "3_u_michael": {
+          "game_session_id": "game_1",
+          "user_id": "u_michael",
+          "round": 3,
+          "photo_id": "p_063",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:04Z"
+        },
+        "3_u_streak": {
+          "game_session_id": "game_1",
+          "user_id": "u_streak",
+          "round": 3,
+          "photo_id": "p_063",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:07Z"
+        },
+        "4_u_anabella": {
+          "game_session_id": "game_1",
+          "user_id": "u_anabella",
+          "round": 4,
+          "photo_id": "p_064",
+          "selected_user_id": "u_haley",
+          "is_correct": true,
+          "answered_at": "2026-06-21T17:03:40Z"
+        },
+        "4_u_steph": {
+          "game_session_id": "game_1",
+          "user_id": "u_steph",
+          "round": 4,
+          "photo_id": "p_064",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:43Z"
+        },
+        "4_u_lily": {
+          "game_session_id": "game_1",
+          "user_id": "u_lily",
+          "round": 4,
+          "photo_id": "p_064",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:46Z"
+        },
+        "4_u_michael": {
+          "game_session_id": "game_1",
+          "user_id": "u_michael",
+          "round": 4,
+          "photo_id": "p_064",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:49Z"
+        },
+        "4_u_streak": {
+          "game_session_id": "game_1",
+          "user_id": "u_streak",
+          "round": 4,
+          "photo_id": "p_064",
+          "selected_user_id": "u_diego",
+          "is_correct": false,
+          "answered_at": "2026-06-21T17:03:52Z"
+        }
+      }
+    },
+    {
+      "path": "group_invitations",
+      "documents": {
+        "g_party_animals_u_anabella": {
+          "group_id": "g_party_animals",
+          "group_name": "Party Animals",
+          "inviter_id": "u_steph",
+          "inviter_name": "Steph",
+          "recipient_id": "u_anabella",
+          "invite_status": "pending",
+          "created_at": "2026-10-20T14:30:00Z"
+        },
+        "g_party_animals_u_michael": {
+          "group_id": "g_party_animals",
+          "group_name": "Party Animals",
+          "inviter_id": "u_kyle",
+          "inviter_name": "Kyle",
+          "recipient_id": "u_michael",
+          "invite_status": "declined",
+          "created_at": "2026-10-20T14:40:00Z"
+        },
+        "g_axolotls_u_lily": {
+          "group_id": "g_axolotls",
+          "group_name": "The Axolotls",
+          "inviter_id": "u_steph",
+          "inviter_name": "Steph",
+          "recipient_id": "u_lily",
+          "invite_status": "accepted",
+          "created_at": "2026-10-20T08:05:00Z"
+        }
+      }
+    },
+    {
+      "path": "invite_codes",
+      "documents": {
+        "123456": {
+          "group_id": "g_axolotls",
+          "created_at": "2026-10-20T08:00:00Z"
+        },
+        "482913": {
+          "group_id": "g_party_animals",
+          "created_at": "2026-10-20T14:00:00Z"
+        },
+        "305117": {
+          "group_id": "g_italy",
+          "created_at": "2026-06-13T02:00:00Z"
+        },
+        "771204": {
+          "group_id": "g_friendsgiving",
+          "created_at": "2025-11-24T20:00:00Z"
+        },
+        "640028": {
+          "group_id": "g_beach",
+          "created_at": "2025-10-19T08:00:00Z"
+        }
+      }
+    },
+    {
+      "path": "quest_bank",
+      "documents": {
+        "qb_01": {
+          "prompt": "Take a photo with the tallest person in the room",
+          "modes": [
+            "party"
+          ],
+          "checkable": true
+        },
+        "qb_02": {
+          "prompt": "Take a photo of something blue",
+          "modes": [
+            "party",
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_03": {
+          "prompt": "Take a photo of a statue",
+          "modes": [
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_04": {
+          "prompt": "Take a photo of the best view you can find",
+          "modes": [
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_05": {
+          "prompt": "Take a group selfie with everyone in it",
+          "modes": [
+            "party",
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_06": {
+          "prompt": "Take a photo of someone mid-laugh",
+          "modes": [
+            "party",
+            "travel"
+          ],
+          "checkable": false
+        },
+        "qb_07": {
+          "prompt": "Take a photo of a dog (ask the owner first!)",
+          "modes": [
+            "party",
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_08": {
+          "prompt": "Take a photo of the snack table",
+          "modes": [
+            "party"
+          ],
+          "checkable": true
+        },
+        "qb_09": {
+          "prompt": "Take a photo of matching outfits",
+          "modes": [
+            "party"
+          ],
+          "checkable": true
+        },
+        "qb_10": {
+          "prompt": "Take the most dramatic photo you can",
+          "modes": [
+            "party"
+          ],
+          "checkable": false
+        },
+        "qb_11": {
+          "prompt": "Take a photo of a street sign in another language",
+          "modes": [
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_12": {
+          "prompt": "Take a photo of the best food you've had today",
+          "modes": [
+            "travel"
+          ],
+          "checkable": true
+        },
+        "qb_13": {
+          "prompt": "Take a photo of a hidden detail most people miss",
+          "modes": [
+            "travel"
+          ],
+          "checkable": false
+        },
+        "qb_14": {
+          "prompt": "Take a photo of someone dancing",
+          "modes": [
+            "party"
+          ],
+          "checkable": true
+        },
+        "qb_15": {
+          "prompt": "Take a photo that sums up today",
+          "modes": [
+            "party",
+            "travel"
+          ],
+          "checkable": false
+        },
+        "qb_16": {
+          "prompt": "Take a photo with a sunset in it",
+          "modes": [
+            "travel"
+          ],
+          "checkable": true
+        }
+      }
+    }
+  ]
+}
