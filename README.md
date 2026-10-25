@@ -72,7 +72,7 @@ To skip Storage for now, set `storageBucket: ""` in step 4. Page 3 will then ski
 Use Xcode 26.0 or later, not a beta: the 26 betas had a bug compiling playgrounds that have a `Sources` folder.
 
 1. Double-click `Sprint3API.playground` to open it in Xcode. It's set to run only when you press Run, so typing your keys won't fire any API calls.
-2. Show the navigator (⌘1). The four pages are listed under the playground; `Sources` and `Resources` are below them.
+2. Show the navigator (⌘1). The five pages are listed under the playground; `Sources` and `Resources` are below them.
 3. Open a page and press **Run** (▶︎ at the bottom of the editor, or ⇧⌘↩). Output appears in the debug area (⇧⌘Y).
 
 Run the pages in order:
@@ -83,6 +83,7 @@ Run the pages in order:
 | **2 Read Firestore** | Reads the data back as Anabella (the user on the Figma screens) | Raw Firestore JSON → `GroupRecord` → the "Data accessed" struct for 18 panels: `HomeData`, `GroupOverview`, `CameraContext`, `QuestNotification`, `ArchiveData`, `GameLeaderboard`, `FriendDiscoveryData`, ... |
 | **3 Gemini Quest Check** | Sends `quest-photo.jpg` and the current quest to Gemini, saves the verdict on a new photo | `CameraContext` → raw Gemini JSON → `QuestVerdict` → Storage upload → `GroupPhoto` |
 | **4 Gemini Quest Ideas** | Has Gemini write quests for a new travel group, then creates the group | Gemini's JSON → `QuestIdeas` → `GroupRecord`, the creator's membership, invite code and quests saved |
+| **5 Reset Demo Data** | Deletes everything pages 1–4 wrote (sample data, page 3's photo, page 4's group) | "Deleted N documents". Run it before recording so the data arrives on camera |
 
 Times in the sample data are set relative to when page 1 runs: The Axolotls' photos
 reveal 16 hours later, and its statue quest has 1 hour left. Run page 1 again
@@ -101,6 +102,7 @@ the right. Ours follow the same format, one clip per rubric item.
 
 **Before you record**
 - Run each page once as a warm-up. The first run compiles everything and is slow.
+- Then run page 5 (Reset) off camera, so Firestore starts empty and the data appears while you record.
 - Make the Xcode font bigger (⌘+), hide the navigator (⌘0) and the inspector (⌥⌘0), and drag the debug area up so the output fills the bottom half.
 - Put Xcode on the left half of the screen and a browser with the Firebase console on the right half.
 - Record with ⌘⇧5 → Record Entire Screen. Stop with the ⏹ button in the menu bar.
@@ -112,7 +114,7 @@ the right. Ours follow the same format, one clip per rubric item.
 
 **Clip 2 · Gemini API → structs (about 30 seconds)**
 1. Page 3 → Run. Stop on Gemini's raw JSON, then on the decoded `QuestVerdict`.
-2. In the browser: `groups/g_axolotls/photos/p_demo` with `quest_check` open, then Storage → `p_demo.jpg`.
+2. In the browser: `groups/g_axolotls/photos/p_demo` with `quest_check` open (and Storage → `p_demo.jpg`, once Storage is on).
 3. Page 4 → Run. Show the six quests and the new `groups/g_pittsburgh_demo` in the console.
 
 ## Screenshots for the report
@@ -124,7 +126,7 @@ the right. Ours follow the same format, one clip per rubric item.
 6. `groups/g_axolotls/photos/p_demo` with `quest_check` expanded
 7. `groups/g_italy/game_sessions/game_1` and one document in its `guesses`
 8. `group_invitations/g_party_animals_u_anabella` and `invite_codes/123456`
-9. Storage: `groups/g_axolotls/photos/` showing `p_demo.jpg`
+9. Storage: `groups/g_axolotls/photos/` showing `p_demo.jpg` (skip while Storage is off)
 10. Authentication → **Users** (the anonymous accounts the playground created)
 
 ---
